@@ -1,0 +1,7 @@
+Jainil is a good boy.
+I am a second line
+This is amazing
+Twinkle Twinkle Little Star
+This is a new line
+This is a new line using with statement
+This is a new line using with statement
